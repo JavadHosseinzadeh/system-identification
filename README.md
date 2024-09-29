@@ -1,6 +1,6 @@
 # System Identification and Model Estimation
 
-This repository includes various MATLAB scripts for system identification, model estimation, and performance evaluation using four different methodologies. This project encompasses system identification techniques using recursive, iterative, and neural network-based approaches.
+This repository includes various MATLAB scripts for system identification, model estimation, and performance evaluation using different methodologies. This project encompasses system identification techniques using recursive, iterative, and neural network-based approaches.
 
 ## Part I: Transfer Function Estimation and Discretization
 This part provides the development of a state-space and transfer function model of the system. It studies the system responses based on impulse, step, and frequency-domain analyses.
